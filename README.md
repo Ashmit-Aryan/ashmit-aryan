@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashmit-aryan.herokuapp.com/](https://ashmit-aryan.herokuapp.com/)
 
-- 📝 I regulary write articles on [https://ashmit-aryan.herokuapp.com/](https://ashmit-aryan.herokuapp.com/)
+- 📝 I regulary write articles on [https://ashmit-aryan.herokuapp.com/](https://ashmit-aryan.herokuapp.com/#blog)
 
 - 💬 Ask me about **VueJs , Android ,Adobe Xd ,Adobe Premiere, Adobe After Effect , Java, Kotlin , Express , NodeJs , MongoDB**
 
