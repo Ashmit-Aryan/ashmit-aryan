@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashmit-aryan" alt="ashmit-aryan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_ashmit_aryan_" target="blank"><img src="https://img.shields.io/twitter/follow/_ashmit_aryan_?logo=twitter&style=for-the-badge" alt="_ashmit_aryan_" /></a> </p>
-<p align="left"> <a href="https://www.instagram.com/_the_ashmit_aryan_/" target="blank"><img src="https://img.shields.io/instagram/follow/_ashmit_aryan_?logo=instagram&style=for-the-badge" alt="_ashmit_aryan_" /></a> </p>
+
 
 - 🔭 I’m currently working on **Nasa Photo Viewer VueJs**
 
