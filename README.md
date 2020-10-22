@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_ashmit_aryan_" target="blank"><img src="https://img.shields.io/twitter/follow/_ashmit_aryan_?logo=twitter&style=for-the-badge" alt="_ashmit_aryan_" /></a> </p>
 
-- 🔭 I’m currently working on [Universe Explorer](https://github.com/Ashmit-Aryan/Universe-Explorer)
+- 🔭 I’m currently working on [Cosmos Appraise](https://github.com/Ashmit-Aryan/Cosmos-Appraise)
 
 - 🌱 I’m currently learning **ReactJs , Angualer**
 
