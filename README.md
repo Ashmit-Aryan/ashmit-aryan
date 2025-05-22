@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Hospital Managenet](https://github.com/Ashmit-Aryan/Hospital-Management)
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **MERN , Java , Kotlin , Python , C/C++**
 
