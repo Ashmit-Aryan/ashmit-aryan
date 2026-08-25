@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashmit Aryan</h1>
-<h3 align="center">Fullstack Web Developer MERN </h3>
+<h3 align="center">Fullstack Developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack<br>🤝 I’m looking for help with AI&ML Integration in JavaScript<br>🌱 I’m currently learning AI&ML<br>💬 Ask me about React , Node.js , Express, Mongodb, Java, C/C++
