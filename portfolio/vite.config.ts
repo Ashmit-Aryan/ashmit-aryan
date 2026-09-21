@@ -4,7 +4,7 @@ import svgr from 'vite-plugin-svgr'
 import path from 'path'
 
 // GitHub Pages repo name - change this to your actual repo name
-const REPO_NAME = 'portfolio-website'
+const REPO_NAME = 'portfolio'
 
 export default defineConfig({
 
@@ -19,7 +19,7 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: `/${REPO_NAME}-new/`,
+  base: `/${REPO_NAME}/`,
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
